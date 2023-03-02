@@ -1,2 +1,5 @@
-# chat-gpt
-Chat GPT automation frmaeworks: https://www.youtube.com/@automation100
+# chat-gpt-selenium
+Use ChatGPT to create a C# Selenium framework
+
+# Youtube URL
+https://www.youtube.com/@automation100

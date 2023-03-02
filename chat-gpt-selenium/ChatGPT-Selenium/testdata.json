@@ -1,0 +1,14 @@
+﻿[
+  {
+    "SearchQuery": "text-1",
+    "ExpectedTitle": "Web form"
+  },
+  {
+    "SearchQuery": "text-2",
+    "ExpectedTitle": "Web form"
+  },
+  {
+    "SearchQuery": "text-3",
+    "ExpectedTitle": "invalid title - expect to fail" 
+  }
+]

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPT-Selenium", "ChatGPT-Selenium\ChatGPT-Selenium.csproj", "{E8D652A0-1CE4-4115-872E-C29A389E9F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D652A0-1CE4-4115-872E-C29A389E9F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D652A0-1CE4-4115-872E-C29A389E9F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D652A0-1CE4-4115-872E-C29A389E9F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D652A0-1CE4-4115-872E-C29A389E9F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BFA1D1F-3982-4DFF-8ACA-B404844425BC}
+	EndGlobalSection
+EndGlobal

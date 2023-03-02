@@ -1,0 +1,9 @@
+## Ignore Visual Studio files
+
+**/[Pp]ackages/*
+bin/
+obj/
+.vs/
+**/results/*
+*.opt
+*.log
