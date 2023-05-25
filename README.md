@@ -2,4 +2,4 @@
 Use ChatGPT to create a C# Selenium framework
 
 # Youtube URL
-https://www.youtube.com/@automation100
+https://www.youtube.com/@TechWithAlexD
